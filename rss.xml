@@ -5,7 +5,7 @@
         <description><![CDATA[the-experiment]]></description>
         <link>http://theexperiment.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 03 Sep 2015 14:35:53 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Sep 2015 14:36:05 GMT</lastBuildDate>
         <atom:link href="http://theexperiment.io/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -57,7 +57,7 @@
             <title><![CDATA[Question 1]]></title>
             <description><![CDATA[<article><h1>Question 1</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f1a3c133-efc5-4f44-b276-b791d0c149bf.png"></article>]]></description>
             <guid isPermaLink="false">6a967772-6ff1-4d6f-83a6-75f8d2da68c6</guid>
-            <pubDate>Thu, 03 Sep 2015 14:34:17 GMT</pubDate>
+            <pubDate>Thu, 03 Sep 2015 14:35:39 GMT</pubDate>
         </item>
     </channel>
 </rss>
