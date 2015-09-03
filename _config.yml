@@ -1,6 +1,6 @@
 name: the-experiment
 favicon: null
-layout_spectrum: 0.8
+layout_spectrum: 0.01837
 cta:
   domain: null
   bucket: null
@@ -14,7 +14,12 @@ opengraph:
   type: null
   appId: null
 color:
-  brandColors: []
+  brandColors:
+    - '#f7eed1'
+    - '#2192b4'
+    - '#8ca496'
+    - '#161614'
+    - '#474445'
   brandStrength: 0
   lightness: 0.5
   saturation: 0.5
