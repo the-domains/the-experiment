@@ -3,10 +3,16 @@
     <channel>
         <title><![CDATA[the-experiment]]></title>
         <description><![CDATA[the-experiment]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>http://theexperiment.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 03 Sep 2015 16:57:46 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 03 Sep 2015 16:58:02 GMT</lastBuildDate>
+        <atom:link href="http://theexperiment.io/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/185538dc-8f29-4b5f-bacc-e34d5be165ed.png">]]></description>
+            <guid isPermaLink="false">f91638c5-b8af-4468-94bb-b9a504ac145e</guid>
+            <pubDate>Thu, 03 Sep 2015 16:58:02 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Send us an email or there’s always these: @trevorobrien and @narrowd</p>]]></description>
