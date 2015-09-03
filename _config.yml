@@ -1,6 +1,7 @@
 name: the-experiment
 favicon: null
 layout_spectrum: 0.01837
+typography_spectrum: 0.27551
 cta:
   domain: null
   bucket: null
