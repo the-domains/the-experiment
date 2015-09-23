@@ -1,7 +1,7 @@
 name: the-experiment
 favicon: null
-layout_spectrum: 0.01836
-typography_spectrum: 1
+layout_spectrum: 0.7109
+typography_spectrum: 0.99183
 cta:
   domain: null
   bucket: null
@@ -21,10 +21,10 @@ color:
     - '#8c9787'
     - '#364b42'
     - '#00718c'
-  brandStrength: 0
-  lightness: 0.875
+  brandStrength: 0.125
+  lightness: 0.25
   saturation: 0.5
-  rhythmicContrast: 0.5
+  rhythmicContrast: 0.75
 purpose:
   - name: awareness
     item: null
