@@ -2,6 +2,7 @@ name: the-experiment
 favicon: null
 layout_spectrum: 0.7109
 typography_spectrum: 0.99183
+style: the-composer
 cta:
   domain: null
   bucket: null
